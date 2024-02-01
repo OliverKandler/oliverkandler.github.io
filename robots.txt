@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oliverkandler.github.io/sitemap.xml
